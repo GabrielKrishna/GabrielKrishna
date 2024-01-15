@@ -11,7 +11,7 @@
  <hr>
 
 <h2><img align=center src="assets/toothless.gif" width="50"> About Me</h2>
--->
+
 <pre>
 📚 Estudante de Ciência da Computação na Universidade Federal de Jataí
 🔭 Trabalhando com ERPs
