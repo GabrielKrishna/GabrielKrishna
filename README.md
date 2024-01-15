@@ -1,5 +1,42 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
- 
+
+# Olá👋, Bem-vindo ao meu perfil do GitHub
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
+
+<a href="https://github.com/Bouaskaoun">
+	<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+</p>
+
+ <p>- <i>Estudante de Ciência da Computação apaixonada por tecnologia e inovação. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
+
+## ⚡🙋‍♂️ Sobre mim
+
+</br>
+
+- 🌱 Estudando Ciência de Dados com Python
+- 😄 
+- 📫 Como chegar até mim: gabybonifacio2@gmail.com
+
+<hr>
+
+<hr>
+<pre>
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+</pre>
+<hr>
+
  <div>
    <a href="https://github.com/GabrielKrishna">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKrishna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -25,54 +62,12 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
-</p>
-
-
-<hr>
-<pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
-</pre>
-<hr>
-
-
-# Olá👋, Bem-vindo ao meu perfil do GitHub
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
-
- <p>- <i>Estudante de Ciência da Computação apaixonada por tecnologia e inovação. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
-
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
-
-## ⚡🙋‍♂️ Sobre mim
-
-</br>
-
-- 🌱 Estudando Ciência de Dados com Python
-- 😄 Pronouns: ela/dela
-- 📫 Como chegar até mim: gabybonifacio2@gmail.com
-
-<hr>
-
 ### Main skills:
-
 
 ### Studying in this moment:
 
 <div align = "center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinayakBector2002&theme=dark&layout=compact" /></p><p>
+  <p>
 <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100">
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
