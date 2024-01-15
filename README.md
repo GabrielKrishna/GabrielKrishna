@@ -2,14 +2,8 @@
 
 # Olá👋, Bem-vindo ao meu perfil do GitHub
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Gabriel+Krishna...;Tenho+20+anos+...;Estudante+de+Ciência+da+Computação..."/>
-
-<a href="https://github.com/Bouaskaoun">
-	<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
-
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&size=27&center=true&vCenter=true&width=600&height=100&lines=Meu+Nome+é+Gabriel+Krishna...;Tenho+20+anos+...;Estudante+de+Ciência+da+Computação...">
 </p>
 
  <p>- <i>Estudante de Ciência da Computação apaixonada por tecnologia e inovação. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
@@ -18,13 +12,8 @@
 
 </br>
 
-- 🌱 Estudando Ciência de Dados com Python
-- 😄 
-- 📫 Como chegar até mim: gabybonifacio2@gmail.com
-
 <hr>
 
-<hr>
 <pre>
 💻 I am a self taught Full Stack Developer and a Machine Learning Developer
 📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
