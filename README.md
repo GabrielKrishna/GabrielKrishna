@@ -5,7 +5,7 @@
 <h1><b>Bem-vindo ao meu perfil do GitHub<b></h1>
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=786dbf&size=27&center=true&vCenter=true&width=600&height=100&lines=Sou+Gabriel+Krishna;Software+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=786dbf&size=35&center=true&vCenter=true&width=600&height=100&lines=Sou+Gabriel+Krishna;Software+Developer">
 </p>
 
  <hr>
@@ -23,7 +23,7 @@
 
 <hr>
 
-<h3><img align=center src="assets/skills.gif" width="30"> Main Skills</h3>
+<h3><img align=center src="assets/skills.gif" width="26"> Main Skills</h3>
 
 <!--
 <div align = "center">
