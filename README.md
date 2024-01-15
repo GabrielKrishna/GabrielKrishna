@@ -10,7 +10,7 @@
 
  <hr>
 
-<h2><img align=center src="assets/toothless.gif" width="50"> About Me</h2>
+<h3><img align=center src="assets/toothless.gif" width="50"> About Me</h3>
 
 <pre>
 📚 Estudante de Ciência da Computação na Universidade Federal de Jataí
@@ -23,7 +23,7 @@
 
 <hr>
 
-<h2><img align=center src="assets/skills.gif" width="30"> Main Skills</h2>
+<h3><img align=center src="assets/skills.gif" width="30"> Main Skills</h3>
 
 <!--
 <div align = "center">
@@ -39,21 +39,21 @@
 </div>
 -->
 
-<div style="display: inline_block">
+<p align="center">
  <br>
-  <img align="center" alt="Js" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-  <img align="center" alt="MySQL" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PostgreSQL" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Docker" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-</div>
+  <img align="center" alt="Js" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
+  <img align="center" alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="PostgreSQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+</p>
 
 <hr>
 
-<h2><img align=center src="assets/graph.gif" width="30"> My GitHub Stats</h2>
+<h3><img align=center src="assets/graph.gif" width="30"> My GitHub Stats</h3>
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKrishna&show_icons=true&rank_icon=github&theme=discord_old_blurple&bg_color=00000000&include_all_commits=true&count_private=true"/>
