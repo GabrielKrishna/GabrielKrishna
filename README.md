@@ -3,7 +3,7 @@
 # Olá👋, Bem-vindo ao meu perfil do GitHub
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=A020F0&size=27&center=true&vCenter=true&width=600&height=100&lines=Meu+Nome+é+Gabriel+Krishna...;Tenho+20+anos+...;Estudante+de+Ciência+da+Computação...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=A020F0&size=27&center=true&vCenter=true&width=600&height=100&lines=Meu+Nome+é+Gabriel+Krishna...;Tenho+20+anos+...;Estudante+de+Ciência+da+Computação...">
 </p>
 
  <p>- <i>Estudante de Ciência da Computação apaixonada por tecnologia e inovação. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
