@@ -1,25 +1,27 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+
 <img width=100% src="assets/header.svg"/>
 
-# Olá👋, Bem-vindo ao meu perfil do GitHub
+<h3> Olá👋, Bem-vindo ao meu perfil do GitHub </h3>
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=A020F0&size=27&center=true&vCenter=true&width=600&height=100&lines=Meu+Nome+é+Gabriel+Krishna...;Tenho+20+anos+...;Estudante+de+Ciência+da+Computação...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=786dbf&size=27&center=true&vCenter=true&width=600&height=100&lines=Sou+Gabriel+Krishna;Software+Developer">
 </p>
 
- <p>- <i>Estudante de Ciência da Computação apaixonada por tecnologia e inovação. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
+ <hr>
 
 <h3>About Me</h3>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+📚 Estudante de Ciência da Computação na Universidade Federal de Jataí
+🔭 Trabalhando com ERPs
+💻 Desenvolvendo habilidades em programação e algoritmos
+📝 Sempre interessado em aprender coisas novas
+🌱 Em busca de novas oportunidades de aplicar meu conhecimento
+🚩 Interessado em desenvolvimento Full Stack
 </pre>
+
+<hr>
 
 <h3>Main Skills</h3>
 
@@ -47,6 +49,8 @@
   <img align="center" alt="Docker" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 </div>
 
+<hr>
+
 <h3>My GitHub Stats</h3>
 
 <div>
@@ -55,10 +59,8 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKrishna&layout=compact&langs_count=6&theme=dark"/>
 </div>
 
+<hr>
+
 <img align=center src="assets/toothless.gif" width="850">
-
-<img width=100% src="assets/glowBar.gif"/>
-
-<img width=100% src="assets/line-neon.gif"/>
 
 <img width=100% src="assets/footer.svg"/>
