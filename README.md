@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+ 
  <div>
    <a href="https://github.com/GabrielKrishna">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKrishna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -44,3 +46,25 @@
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
+
+
+# Olá👋, Bem-vindo ao meu perfil do GitHub
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=A020F0&size=27&center=false&lines=Meu+Nome+é+Marcia+Gabrielle...;Tenho+21+anos+...;Estudante+de+Ciência+da+Computação..."/>
+
+ <p>- <i>Estudante de Ciência da Computação apaixonada por tecnologia e inovação. Desenvolvendo habilidades em programação, algoritmos e análise de dados. Interessado em inteligência artificial, aprendizado de máquina e Ciência de Dados. Comprometida com a aprendizagem contínua e em busca de oportunidades para aplicar meu conhecimento e contribuir para soluções tecnológicas inovadoras.</i></p>
+
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="45%" align="right" />
+
+## ⚡🙋‍♂️ Sobre mim
+
+</br>
+
+- 🌱 Estudando Ciência de Dados com Python
+- 😄 Pronouns: ela/dela
+- 📫 Como chegar até mim: gabybonifacio2@gmail.com
+
+<hr>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
