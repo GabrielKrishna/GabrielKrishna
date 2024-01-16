@@ -5,7 +5,7 @@
 <h1><b>Bem-vindo ao meu perfil do GitHub<b></h1>
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=786dbf&size=35&center=true&vCenter=true&width=600&height=100&lines=I'm+Gabriel+Krishna;Software+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=786dbf&size=45&center=true&vCenter=true&width=600&height=100&lines=I'm+Gabriel+Krishna;Software+Developer">
 </p>
 
  <hr>
