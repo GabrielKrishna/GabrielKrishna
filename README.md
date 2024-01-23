@@ -56,8 +56,8 @@
 <h3><img align=center src="assets/graph.gif" width="30"> My GitHub Stats</h3>
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKrishna&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&text_color=786dbf&title_color=786dbf&icon_color=786dbf&border_color=474747&theme=discord_old_blurple&bg_color=00000000"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKrishna&layout=compact&langs_count=6&text_color=786dbf&title_color=786dbf&icon_color=786dbf&border_color=474747&theme=discord_old_blurple&bg_color=00000000"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKrishna&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&text_color=786dbf&title_color=786dbf&icon_color=786dbf&hide_border=true&theme=discord_old_blurple&bg_color=00000000"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKrishna&layout=compact&langs_count=6&text_color=786dbf&title_color=786dbf&icon_color=786dbf&hide_border=true&theme=discord_old_blurple&bg_color=00000000"/>
 </div>
 
 <img width=100% src="assets/footer.svg"/>
