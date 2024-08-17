@@ -18,7 +18,7 @@
 💻 Desenvolvendo habilidades em programação e algoritmos
 📝 Sempre interessado em aprender coisas novas
 🌱 Em busca de novas oportunidades de aplicar meu conhecimento
-🚩 Interessado em desenvolvimento Full Stack
+🚩 Interessado em desenvolvimento Full-Stack
 </pre>
 
 <hr>
