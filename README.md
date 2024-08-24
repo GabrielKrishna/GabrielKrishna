@@ -14,7 +14,7 @@
 
 <pre>
 📚 Estudante de Ciência da Computação na Universidade Federal de Jataí
-🔭 Trabalhando com ERPs
+🔭 Trabalhando desenvolvimento WEB
 💻 Desenvolvendo habilidades em programação e algoritmos
 📝 Sempre interessado em aprender coisas novas
 🌱 Em busca de novas oportunidades de aplicar meu conhecimento
