@@ -2,7 +2,7 @@
 
 <img width=100% src="assets/header.svg"/>
 
-<h1><b>Bem-vindo ao meu perfil do GitHub<b></h1>
+<h1><b>Bem-vindo ao meu perfil do GitHub! <b></h1>
 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=786dbf&size=45&center=true&vCenter=true&width=600&height=100&lines=I'm+Gabriel+Krishna;Software+Developer">
@@ -13,12 +13,10 @@
 <h3><img align=center src="assets/toothless.gif" width="50"> About Me</h3>
 
 <pre>
-📚 Estudante de Ciência da Computação na Universidade Federal de Jataí
-🔭 Trabalhando desenvolvimento WEB
-💻 Desenvolvendo habilidades em programação e algoritmos
-📝 Sempre interessado em aprender coisas novas
-🌱 Em busca de novas oportunidades de aplicar meu conhecimento
-🚩 Interessado em desenvolvimento Full-Stack
+📚 Formado em Ciência da Computação pela Universidade Federal de Jataí;
+🔭 Trabalhando como desenvolvedor de software;
+🚩 Foco em desenvolvimento web Full-Stack;
+💻 Sempre aprimorando habilidades em programação e algoritmos.
 </pre>
 
 <hr>
