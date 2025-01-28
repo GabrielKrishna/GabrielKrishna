@@ -8,9 +8,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=ea2a37&size=45&center=true&vCenter=true&width=600&height=100&lines=I'm+Gabriel+Krishna;Software+Developer">
 </p>
 
-<hr>
 
-<h3><img align=center src="assets/toothless.gif" width="50"> About Me</h3>
+<h2><img align=center src="assets/toothless.gif" width="50"> About Me</h2>
 
 <pre>
 📚 Formado em Ciência da Computação pela Universidade Federal de Jataí;
@@ -19,9 +18,8 @@
 💻 Sempre aprimorando habilidades em programação e algoritmos.
 </pre>
 
-<hr>
 
-<h3><img align=center src="assets/skills.gif" width="26"> Main Skills</h3>
+<h2><img align=center src="assets/skills.gif" width="26"> Main Skills</h2>
 
 <!--
 <div align = "center">
@@ -49,9 +47,8 @@
   <img align="center" alt="Docker" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
 </p>
 
-<hr>
 
-<h3><img align=center src="assets/graph.gif" width="30"> My GitHub Stats</h3>
+<h2><img align=center src="assets/graph.gif" width="30"> My GitHub Stats</h2>
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKrishna&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&text_color=e7c5aa&title_color=ea2a37&icon_color=ea2a37&hide_border=true&theme=discord_old_blurple&bg_color=00000000"/>
