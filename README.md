@@ -4,11 +4,11 @@
 
 <h1><b>Bem-vindo ao meu perfil do GitHub! <b></h1>
 
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=786dbf&size=45&center=true&vCenter=true&width=600&height=100&lines=I'm+Gabriel+Krishna;Software+Developer">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&color=ea2a37&size=45&center=true&vCenter=true&width=600&height=100&lines=I'm+Gabriel+Krishna;Software+Developer">
 </p>
 
- <hr>
+<hr>
 
 <h3><img align=center src="assets/toothless.gif" width="50"> About Me</h3>
 
@@ -54,8 +54,8 @@
 <h3><img align=center src="assets/graph.gif" width="30"> My GitHub Stats</h3>
 
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKrishna&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&text_color=786dbf&title_color=786dbf&icon_color=786dbf&hide_border=true&theme=discord_old_blurple&bg_color=00000000"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKrishna&layout=compact&langs_count=6&text_color=786dbf&title_color=786dbf&icon_color=786dbf&hide_border=true&theme=discord_old_blurple&bg_color=00000000"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielKrishna&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&text_color=e7c5aa&title_color=ea2a37&icon_color=ea2a37&hide_border=true&theme=discord_old_blurple&bg_color=00000000"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKrishna&layout=compact&langs_count=6&text_color=e7c5aa&title_color=ea2a37&icon_color=ea2a37&hide_border=true&theme=discord_old_blurple&bg_color=00000000"/>
 </div>
 
 <img width=100% src="assets/footer.svg"/>
