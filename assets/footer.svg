@@ -19,7 +19,7 @@
                     
          
     <g transform="translate(427, 60) scale(1, 1) translate(-427, -60)">
-      <path d="" fill="#7B68EE" opacity="0.4" >
+      <path d="" fill="#ea2a37" opacity="0.4" >
         <animate
             attributeName="d"
             dur="20s"
@@ -31,7 +31,7 @@
             values="M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z;M0 0L 0 65Q 213.5 80 427 60T 854 50L 854 0 Z;M0 0L 0 85Q 213.5 55 427 85T 854 50L 854 0 Z;M0 0L 0 40Q 213.5 80 427 50T 854 75L 854 0 Z">
         </animate>
       </path>
-      <path d="" fill="#7B68EE" opacity="0.4" >
+      <path d="" fill="#ea2a37" opacity="0.4" >
         <animate
           attributeName="d"
           dur="20s"
